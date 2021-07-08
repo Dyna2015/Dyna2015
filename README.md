@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dyna2015, a graduate student.
 - 👀 I’m interested in Programming. And I will note down some learning process in the Git.
-- 🌱 July 8th, 2021 I start learning C Language. 
-
+- 🌱 Jul.8th, 2021 I start learning C Language. I hope I can hold on.
 
 
 <!---
